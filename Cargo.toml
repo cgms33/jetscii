@@ -1,7 +1,7 @@
 [package]
 name = "jetscii"
-version = "0.5.3"
-authors = ["Jake Goulding <jake.goulding@gmail.com>"]
+version = "0.4.4"
+authors = ["cgms <cgms33@outlook.com>"]
 
 description = "A tiny library to efficiently search strings and byte slices for sets of ASCII characters or bytes."
 readme = "README.md"
